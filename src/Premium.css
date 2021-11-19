@@ -1,0 +1,55 @@
+.abc1 {
+  /* background-color: rgb(205, 241, 136); */
+  background-color: white;
+}
+
+.san1 {
+  height: 12cm;
+  width: 13cm;
+  background-color: rgb(189, 230, 230);
+  margin-left: 20px;
+}
+/*.box1{
+  margin-top: 100px;
+ margin-right: 700px;
+  
+}*/
+.head2 {
+  color: rgb(96, 50, 180);
+}
+.san2 {
+  height: 12cm;
+  width: 13cm;
+  background-color: rgb(193, 235, 235);
+  float: right;
+  float: inline-end;
+  margin-top: -545px;
+  margin-right: 100px;
+}
+.arp1 {
+  height: 1cm;
+  width: 3cm;
+  margin-right: 850px;
+  margin-left: 15%;
+  margin-top: 40px;
+  border-radius: 35px;
+  background-color: rgb(236, 174, 59);
+}
+.arp2 {
+  height: 1cm;
+  width: 3cm;
+  margin-left: 770px;
+  border-radius: 35px;
+  background-color: rgb(236, 174, 59);
+  /* align-items: baseline; */
+  margin-bottom: 60px;
+}
+
+.www {
+  font-size: medium;
+  display: block;
+}
+
+.zzz {
+  text-decoration: line-through;
+}
